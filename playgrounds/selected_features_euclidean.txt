@@ -1,0 +1,9 @@
+Selected features using Euclidean method:
+Total: 6
+
+psxview.not_in_pslist
+psxview.not_in_ethread_pool
+psxview.not_in_pspcid_list
+psxview.not_in_pslist_false_avg
+psxview.not_in_ethread_pool_false_avg
+psxview.not_in_pspcid_list_false_avg

@@ -1,0 +1,16 @@
+Selected features using KL method (Optimal Thresholds)
+Total: 12
+Threshold: KL Divergence ≤ 0.482890
+
+handles.nsection
+malfind.commitCharge
+malfind.protection
+psxview.not_in_pslist
+psxview.not_in_ethread_pool
+psxview.not_in_pspcid_list
+psxview.not_in_session
+psxview.not_in_pslist_false_avg
+psxview.not_in_eprocess_pool_false_avg
+psxview.not_in_ethread_pool_false_avg
+psxview.not_in_pspcid_list_false_avg
+psxview.not_in_session_false_avg

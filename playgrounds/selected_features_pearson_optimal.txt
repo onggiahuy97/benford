@@ -1,0 +1,37 @@
+Selected features using Pearson method (Optimal Thresholds)
+Total: 33
+Threshold: Pearson Correlation ≥ 0.021605
+
+pslist.avg_threads
+pslist.avg_handlers
+dlllist.ndlls
+handles.nhandles
+handles.avg_handles_per_proc
+handles.nfile
+handles.nevent
+handles.nthread
+handles.ndirectory
+handles.nsection
+handles.nmutant
+ldrmodules.not_in_init
+ldrmodules.not_in_load_avg
+ldrmodules.not_in_mem_avg
+malfind.ninjections
+malfind.commitCharge
+malfind.protection
+psxview.not_in_pslist
+psxview.not_in_ethread_pool
+psxview.not_in_pspcid_list
+psxview.not_in_session
+psxview.not_in_deskthrd
+psxview.not_in_pslist_false_avg
+psxview.not_in_eprocess_pool_false_avg
+psxview.not_in_ethread_pool_false_avg
+psxview.not_in_pspcid_list_false_avg
+psxview.not_in_csrss_handles_false_avg
+psxview.not_in_session_false_avg
+psxview.not_in_deskthrd_false_avg
+svcscan.nservices
+svcscan.kernel_drivers
+svcscan.fs_drivers
+svcscan.process_services

@@ -2,3 +2,5 @@
 /datasets
 /paper_source_code
 
+*.csv
+*.png

@@ -1,0 +1,9 @@
+Selected features using Pearson method:
+Total: 6
+
+dlllist.ndlls
+malfind.protection
+psxview.not_in_pslist
+psxview.not_in_ethread_pool
+psxview.not_in_pspcid_list
+psxview.not_in_deskthrd_false_avg
